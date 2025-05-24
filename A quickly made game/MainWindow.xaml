@@ -1,0 +1,23 @@
+﻿<Window x:Class="A_quickly_made_game.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:A_quickly_made_game"
+        mc:Ignorable="d"
+                Title="Космический шутер" Width="800" Height="600"
+        KeyDown="Window_KeyDown" KeyUp="Window_KeyUp"
+        WindowStartupLocation="CenterScreen">
+
+    <Canvas x:Name="gameCanvas" Background="Black">
+        <TextBlock x:Name="scoreText" Canvas.Left="10" Canvas.Top="10" 
+               Foreground="White" FontSize="20"/>
+        <TextBlock x:Name="levelText" Canvas.Left="10" Canvas.Top="40" 
+               Foreground="White" FontSize="20"/>
+
+        <TextBlock x:Name="gameOverText" Canvas.Left="300" Canvas.Top="250" 
+               Foreground="Red" FontSize="40" Text="GAME OVER" Visibility="Collapsed"/>
+        <Button x:Name="restartButton" Content="Новая игра" Canvas.Left="350" Canvas.Top="320" 
+            Width="100" Click="RestartButton_Click" Visibility="Collapsed"/>
+    </Canvas>
+</Window>

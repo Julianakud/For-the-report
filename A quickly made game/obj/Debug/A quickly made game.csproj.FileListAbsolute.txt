@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\For-the-report\A quickly made game\A quickly made game\bin\Debug\A quickly made game.exe.config
+C:\Users\User\Desktop\For-the-report\A quickly made game\A quickly made game\bin\Debug\A quickly made game.exe
+C:\Users\User\Desktop\For-the-report\A quickly made game\A quickly made game\bin\Debug\A quickly made game.pdb
+C:\Users\User\Desktop\For-the-report\A quickly made game\A quickly made game\obj\Debug\A quickly made game.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\For-the-report\A quickly made game\A quickly made game\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\For-the-report\A quickly made game\A quickly made game\obj\Debug\App.g.cs
+C:\Users\User\Desktop\For-the-report\A quickly made game\A quickly made game\obj\Debug\A quickly made game_MarkupCompile.cache
+C:\Users\User\Desktop\For-the-report\A quickly made game\A quickly made game\obj\Debug\A quickly made game_MarkupCompile.lref
+C:\Users\User\Desktop\For-the-report\A quickly made game\A quickly made game\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\For-the-report\A quickly made game\A quickly made game\obj\Debug\A quickly made game.g.resources
+C:\Users\User\Desktop\For-the-report\A quickly made game\A quickly made game\obj\Debug\A_quickly_made_game.Properties.Resources.resources
+C:\Users\User\Desktop\For-the-report\A quickly made game\A quickly made game\obj\Debug\A quickly made game.csproj.GenerateResource.cache
+C:\Users\User\Desktop\For-the-report\A quickly made game\A quickly made game\obj\Debug\A quickly made game.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\For-the-report\A quickly made game\A quickly made game\obj\Debug\A quickly made game.exe
+C:\Users\User\Desktop\For-the-report\A quickly made game\A quickly made game\obj\Debug\A quickly made game.pdb
